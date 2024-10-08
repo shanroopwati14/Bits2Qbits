@@ -1,0 +1,11 @@
+**/node_modules/
+**/__pycache__
+tmp/
+dist/
+**/.idea
+backend/db.sqlite3
+.venv
+**/.DS_Store
+frontend/package-lock.json
+package-lock.json
+yarn.lock
